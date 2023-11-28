@@ -1,4 +1,4 @@
-package com.example.app;
+package cl.datoslab.app;
 
 import android.content.Intent;
 import android.net.Uri;
